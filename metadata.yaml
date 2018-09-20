@@ -1,0 +1,27 @@
+_repo: Nordmanna-Mystik-Bilder-Fran-Nordens-Forntid_52789
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bååth, A. U. (Albert Ulrik)
+    aliases:
+    - Baath, A. U. (Albert Ulrik)
+    - Bååth, Albert Ulrik
+    birthdate: 1853
+    deathdate: 1912
+    gutenberg_agent_id: '47041'
+    url: http://www.gutenberg.org/2009/agents/47041
+description: ''
+gutenberg_issued: '2016-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52789'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- Scandinavia'
+- GITenberg
+title: 'Nordmanna-Mystik: Bilder Från Nordens Forntid'
+url: http://www.gutenberg.org/ebooks/52789
